@@ -1,5 +1,5 @@
 '''
-Author: Noel Jiwanmall
+author: Noel Jiwanmall
 '''
 class calculator:
     def self(arg_action,arg_x,arg_y):
@@ -8,7 +8,7 @@ class calculator:
         y=arg_y
     
     def add(self,x,y):
-        return x*y;
+        return x+y;
 
     def multiply(self,x,y):
         return x*y;
