@@ -1,5 +1,5 @@
 '''
-author: Noel Jiwanmall
+Author: Noel Jiwanmall
 '''
 class calculator:
     def self(arg_action,arg_x,arg_y):
